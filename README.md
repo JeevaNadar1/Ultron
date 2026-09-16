@@ -1,6 +1,6 @@
 # Ultron
 
-A Claude Skill that stops the model agreeing with you.
+A  Skill that stops the model agreeing with you.
 
 > **You:** We've been doing it this way for three years and never had a problem.
 >

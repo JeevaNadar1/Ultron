@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# build scratch
+/tmp-build/
+*.zip
+
+# editors
+.idea/
+.vscode/
+*.swp

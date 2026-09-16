@@ -1,0 +1,14 @@
+{
+  "name": "ultron",
+  "owner": {
+    "name": "Jeeva Nadar",
+    "url": "https://github.com/JeevaNadar1"
+  },
+  "plugins": [
+    {
+      "name": "ultron",
+      "source": "./",
+      "description": "A skill that stops the model agreeing with you. Severity-graded review that holds under pushback."
+    }
+  ]
+}

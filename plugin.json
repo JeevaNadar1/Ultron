@@ -1,0 +1,11 @@
+{
+  "name": "ultron",
+  "description": "Review work and claims with rigour instead of agreement. Grades findings by severity, says the important ones plainly, stays quiet about noise, and holds position under pushback that carries no new information.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jeeva Nadar",
+    "url": "https://github.com/JeevaNadar1"
+  },
+  "homepage": "https://github.com/JeevaNadar1/Ultron",
+  "license": "MIT"
+}
